@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ex2evHodeiMartinez</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mapa">mapa</string>
+    <string name="titulo">Polideportivo Gatika</string>
+    <string name="atzera">Atzera</string>
+    <string name="info">Polideportivo de Gatika cuenta con una pista para hacer varios deportes, principalmente Hockey sobre patines donde juega el equipo Gatikako Iusturi en liga nacional</string>
+</resources>
